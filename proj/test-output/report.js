@@ -1,4 +1,4 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("D:/project/proj/src/test/resources/Feature/Features/log.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("D:/Git/proj/src/test/resources/Feature/Features/log.feature");
 formatter.feature({
   "line": 1,
   "name": "OpenCart Test",
@@ -43,35 +43,35 @@ formatter.match({
   "location": "HomepageTest.User_Opens_Browser()"
 });
 formatter.result({
-  "duration": 15488155699,
+  "duration": 16851057100,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageTest.User_is_on_OpenCart()"
 });
 formatter.result({
-  "duration": 108518000,
+  "duration": 46596500,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageTest.User_Clicks_on_loginPage()"
 });
 formatter.result({
-  "duration": 1650088300,
+  "duration": 1743102300,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageTest.User_Enters_Username_name_Password_and_submits()"
 });
 formatter.result({
-  "duration": 4264065900,
+  "duration": 4206781800,
   "status": "passed"
 });
 formatter.match({
   "location": "HomepageTest.Homepage_appears()"
 });
 formatter.result({
-  "duration": 551533101,
+  "duration": 538823399,
   "status": "passed"
 });
 formatter.scenario({
@@ -111,35 +111,35 @@ formatter.match({
   "location": "EditAccountPageTest.User_is_on_HomePage()"
 });
 formatter.result({
-  "duration": 18159153701,
+  "duration": 18288412000,
   "status": "passed"
 });
 formatter.match({
   "location": "EditAccountPageTest.User_clicks_on_Edit_Account_Page()"
 });
 formatter.result({
-  "duration": 1562658101,
+  "duration": 1535856000,
   "status": "passed"
 });
 formatter.match({
   "location": "EditAccountPageTest.User_is_on_EditAccountPage()"
 });
 formatter.result({
-  "duration": 11293000,
+  "duration": 28799400,
   "status": "passed"
 });
 formatter.match({
   "location": "EditAccountPageTest.User_Changes_First_name_and_Last_name_and_submits()"
 });
 formatter.result({
-  "duration": 4750177900,
+  "duration": 4514674000,
   "status": "passed"
 });
 formatter.match({
   "location": "EditAccountPageTest.Successfully_changed()"
 });
 formatter.result({
-  "duration": 935505300,
+  "duration": 862292700,
   "status": "passed"
 });
 formatter.scenario({
@@ -179,35 +179,35 @@ formatter.match({
   "location": "WishListPageTest.User_on_Home()"
 });
 formatter.result({
-  "duration": 18258309900,
+  "duration": 17382676001,
   "status": "passed"
 });
 formatter.match({
   "location": "WishListPageTest.User_clicks_on_WishListPage()"
 });
 formatter.result({
-  "duration": 2586544100,
+  "duration": 1610889900,
   "status": "passed"
 });
 formatter.match({
   "location": "WishListPageTest.User_is_on_wishlistpage()"
 });
 formatter.result({
-  "duration": 12782600,
+  "duration": 12686299,
   "status": "passed"
 });
 formatter.match({
   "location": "WishListPageTest.User_Adds_item_to_wish_list_through_search()"
 });
 formatter.result({
-  "duration": 2974742300,
+  "duration": 2035190600,
   "status": "passed"
 });
 formatter.match({
   "location": "WishListPageTest.product_appears_on_wishlist()"
 });
 formatter.result({
-  "duration": 2201031399,
+  "duration": 2073621001,
   "status": "passed"
 });
 formatter.scenario({
@@ -242,28 +242,28 @@ formatter.match({
   "location": "ComparisionTest.User_on_Home()"
 });
 formatter.result({
-  "duration": 18542700900,
+  "duration": 17083107700,
   "status": "passed"
 });
 formatter.match({
   "location": "ComparisionTest.User_adds_product_to_compare()"
 });
 formatter.result({
-  "duration": 5544504099,
+  "duration": 4539770701,
   "status": "passed"
 });
 formatter.match({
   "location": "ComparisionTest.User_adds_2nd_product()"
 });
 formatter.result({
-  "duration": 2583195501,
+  "duration": 2636232700,
   "status": "passed"
 });
 formatter.match({
   "location": "ComparisionTest.Verify_comparision()"
 });
 formatter.result({
-  "duration": 545212200,
+  "duration": 525639000,
   "status": "passed"
 });
 });

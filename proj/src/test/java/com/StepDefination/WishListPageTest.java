@@ -66,7 +66,7 @@ public void product_appears_on_wishlist() throws IOException  {
 	wp = new WishListPage();
     wp.checkwish();
     s = new TestUtil(driver);
-    s.to_take_screenshot("D:/project/proj/src/test/resources/Screenshot/MyWishList.png");
+    s.to_take_screenshot("D:/Git/proj/src/test/resources/Screenshot/MyWishList.png");
     logger.info("Screenshot captured");
     
 }

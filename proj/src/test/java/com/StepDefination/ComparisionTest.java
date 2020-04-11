@@ -60,7 +60,7 @@ public void User_adds_2nd_product() {
 public void Verify_comparision() throws IOException {
 c.verifyPage();	
 s = new TestUtil(driver);
-s.to_take_screenshot("D:/project/proj/src/test/resources/Screenshot/comparision.png");
+s.to_take_screenshot("D:/Git/proj/src/test/resources/Screenshot/comparision.png");
 logger.info("Screenshot captured");
 
 }

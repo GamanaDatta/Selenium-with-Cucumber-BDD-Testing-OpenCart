@@ -61,7 +61,7 @@ public void Homepage_appears() throws IOException  {
 		String S = driver.getTitle();
 		Assert.assertEquals("My Account", S);
 		s = new TestUtil(driver);
-		s.to_take_screenshot("D:/project/proj/src/test/resources/Screenshot/logged_in.png");
+		s.to_take_screenshot("D:/Git/proj/src/test/resources/Screenshot/logged_in.png");
 		logger.info("Screenshot captured");
 		
 }

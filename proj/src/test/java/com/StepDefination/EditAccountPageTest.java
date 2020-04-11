@@ -71,7 +71,7 @@ public void Successfully_changed() throws IOException  {
 	Assert.assertEquals("My Account", driver.getTitle());
 	EditAccountPage.ss("changed_account_details");
 	s = new TestUtil(driver);
-	s.to_take_screenshot("D:/project/proj/src/test/resources/Screenshot/afterEditing_details.png");
+	s.to_take_screenshot("D:/Git/proj/src/test/resources/Screenshot/afterEditing_details.png");
 	logger.info("Screenshot captured");
 	
    
