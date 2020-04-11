@@ -1,0 +1,5 @@
+url = https://demo.opencart.com/
+urllogin https://demo.opencart.com/index.php?route=account/login
+username  = tp@gmail.com
+password = tp123
+browser = chrome
